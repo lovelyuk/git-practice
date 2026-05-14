@@ -1,1 +1,2 @@
 "camera 작업" 
+"camera fixed 1 작업" 
